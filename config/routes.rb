@@ -1,8 +1,13 @@
 DemoApp::Application.routes.draw do
+<<<<<<< HEAD
   resources :microposts
 
   resources :users
 
+=======
+  ressources :microposts
+  ressources :users
+>>>>>>> 5acba204138bfcd6cbdcf9a0a47cc313a07558b1
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
